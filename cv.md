@@ -2,7 +2,7 @@
 
 ### Junior Frontend Developer
 
-*+375292900737*
+*+375292900737*  
 *annashkt@gmail.com*
 
 ## Summary
@@ -37,17 +37,17 @@ Results-oriented frontend developer. I understand the importance of creating hig
 
 ## Education
 
-**Belarusian State Pedagogical University (2011 – 2016)**
-Faculty of Special Education.
+**Belarusian State Pedagogical University (2011 – 2016)**  
+Faculty of Special Education.  
 Speech Therapist. Special Psychologist.
 
-**Belarusian State University of Informatics and Radioelectronics (2016 – 2017)**
-Master Degree Department.
+**Belarusian State University of Informatics and Radioelectronics (2016 – 2017)**  
+Master Degree Department.  
 Master of Engineering and Technology.
 
 ## Experience
 
-Test project: [https://github.com/kotcher1/slider](https://github.com/kotcher1/slider)
+Test project: [https://github.com/kotcher1/slider](https://github.com/kotcher1/slider)  
 First freelance project (markup only): [https://robolab.by/robocamp.html](https://robolab.by/robocamp.html)
 
 ## English Level

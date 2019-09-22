@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #c8a2c8;
+}
+
+.container {
+  max-width: 1024px;
+  margin-right: auto;
+  margin-left:auto;
+}
+
+header {
+  width: 1024px;
+  display: flex;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left:auto;
+  background-color: #000000;
+}
+
+.my-photo {
+  display: block;
+  margin: 15px 15px 15px 30px;
+  border-radius: 50%;
+}
+
+.header-info {
+  margin: 45px 15px 15px 35px;
+  color: white;
+}
+
+.name {
+  font-size: 80px;
+  margin-bottom: 27px;
+}
+
+.specialization {
+  font-size: 33px;
+}
+
+main {
+  width: 1024px;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left:auto;
+  color: white;
+  background-color: #000000;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+h3 {
+  display: block;
+  margin-bottom: 20px;
+  border-bottom: 1px solid white;
+  font-size: 35px;
+}
+
+p {
+  display: block;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.contact-link {
+  text-decoration: none;
+  color: white;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
+
+.skills-block {
+  display: flex;
+  justify-content: space-around;
+}
+
+.skills-section {
+  width: 14%;
+  border: 1px solid white;
+  padding: 15px;
+}
+
+h4.skills {
+  font-size: 22px;
+  padding-bottom: 10px;
+}
+
+ul.skills {
+  padding-left: 20px;
+  font-size: 17px;
+}
+
+p.work {
+  line-height: 25px;
+}
+
+ul.work {
+  padding-left: 25px;
+  margin-bottom: 10px;
+}
+
+a.experience {
+  color: #dda0dd;
+}

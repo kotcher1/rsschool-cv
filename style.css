@@ -7,6 +7,12 @@ body {
   background-color: #c8a2c8;
 }
 
+.container {
+  width: 1024px;
+  margin-right: auto;
+  margin-left:auto;
+}
+
 header {
   width: 1024px;
   display: flex;

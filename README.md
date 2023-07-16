@@ -1,8 +1,8 @@
 ## CV
 
-Первая работа с Markdown.
-
 *(В рамках курса Frontend-Developer в RollingScopesSchool)*
+
+Первая работа с Markdown. Вёрстка простого ознакомительного резюме (HTML, CSS).
 
 
 [MyCV](https://kotcher1.github.io/rsschool-cv/cv)

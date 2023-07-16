@@ -6,7 +6,7 @@
 
 
 [MD-CV](https://kotcher1.github.io/rsschool-cv/cv)
-[HTML-CV]https://kotcher1.github.io/rsschool-cv/
+[HTML-CV](https://kotcher1.github.io/rsschool-cv/)
 
 Возможные правки:
 - актуализация резюме
